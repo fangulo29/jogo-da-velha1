@@ -1,0 +1,36 @@
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form1.resources
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+C:\Users\pc\AppData\Local\Temporary Projects\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\pc\Desktop\Nave_2012\Programacao\Hamilton\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form_JogoDaVelha.resources
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form_JogoDaVelha.resources
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.exe
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.pdb
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Form_JogoDaVelha.resources
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\JogoDaVelha.Properties.Resources.resources
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+F:\Programacao_2012\Visual\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
